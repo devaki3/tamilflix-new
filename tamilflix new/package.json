@@ -1,13 +1,13 @@
 {
-  "name": "magic-patterns-vite-template",
-  "version": "0.0.1",
+  "name": "tamilflixx",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite build",
+    "dev": "vite",
+    "build": "vite build",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "preview": "npx vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
